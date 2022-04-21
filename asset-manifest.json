@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://onlinenakaoka.github.io/csb-m8l70b/static/css/main.afd7172b.chunk.css",
-    "main.js": "https://onlinenakaoka.github.io/csb-m8l70b/static/js/main.b62d211a.chunk.js",
-    "main.js.map": "https://onlinenakaoka.github.io/csb-m8l70b/static/js/main.b62d211a.chunk.js.map",
-    "runtime-main.js": "https://onlinenakaoka.github.io/csb-m8l70b/static/js/runtime-main.a3a944c7.js",
-    "runtime-main.js.map": "https://onlinenakaoka.github.io/csb-m8l70b/static/js/runtime-main.a3a944c7.js.map",
-    "static/js/2.0c334fad.chunk.js": "https://onlinenakaoka.github.io/csb-m8l70b/static/js/2.0c334fad.chunk.js",
-    "static/js/2.0c334fad.chunk.js.map": "https://onlinenakaoka.github.io/csb-m8l70b/static/js/2.0c334fad.chunk.js.map",
-    "index.html": "https://onlinenakaoka.github.io/csb-m8l70b/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "https://onlinenakaoka.github.io/csb-m8l70b/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.0c334fad.chunk.js.LICENSE.txt": "https://onlinenakaoka.github.io/csb-m8l70b/static/js/2.0c334fad.chunk.js.LICENSE.txt"
+    "main.css": "https://.github.io/csb-m8l70b/static/css/main.abc4df16.chunk.css",
+    "main.js": "https://.github.io/csb-m8l70b/static/js/main.31dc4237.chunk.js",
+    "main.js.map": "https://.github.io/csb-m8l70b/static/js/main.31dc4237.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-m8l70b/static/js/runtime-main.5d62a0d3.js",
+    "runtime-main.js.map": "https://.github.io/csb-m8l70b/static/js/runtime-main.5d62a0d3.js.map",
+    "static/js/2.0c334fad.chunk.js": "https://.github.io/csb-m8l70b/static/js/2.0c334fad.chunk.js",
+    "static/js/2.0c334fad.chunk.js.map": "https://.github.io/csb-m8l70b/static/js/2.0c334fad.chunk.js.map",
+    "index.html": "https://.github.io/csb-m8l70b/index.html",
+    "static/css/main.abc4df16.chunk.css.map": "https://.github.io/csb-m8l70b/static/css/main.abc4df16.chunk.css.map",
+    "static/js/2.0c334fad.chunk.js.LICENSE.txt": "https://.github.io/csb-m8l70b/static/js/2.0c334fad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3a944c7.js",
+    "static/js/runtime-main.5d62a0d3.js",
     "static/js/2.0c334fad.chunk.js",
-    "static/css/main.afd7172b.chunk.css",
-    "static/js/main.b62d211a.chunk.js"
+    "static/css/main.abc4df16.chunk.css",
+    "static/js/main.31dc4237.chunk.js"
   ]
 }
